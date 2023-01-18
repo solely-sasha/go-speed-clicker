@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+
+}
+
+body{
+    font-size: 1.6rem;
+    color: #454f4f;
+}
+
+h1{
+    letter-spacing: 3px;
+    text-align: center;
+}
